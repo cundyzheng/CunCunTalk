@@ -1,0 +1,16 @@
+PODS:
+  - CunCunTalk (0.1.0)
+
+DEPENDENCIES:
+  - CunCunTalk (from `../`)
+
+EXTERNAL SOURCES:
+  CunCunTalk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CunCunTalk: d08f21b535cbeebd914a4527fa89753a3c510078
+
+PODFILE CHECKSUM: 76bb062289d8d4d60970a7539386bc930c3d60ec
+
+COCOAPODS: 1.7.5

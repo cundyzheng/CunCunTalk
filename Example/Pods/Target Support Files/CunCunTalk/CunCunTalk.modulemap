@@ -1,0 +1,6 @@
+framework module CunCunTalk {
+  umbrella header "CunCunTalk-umbrella.h"
+
+  export *
+  module * { export * }
+}
